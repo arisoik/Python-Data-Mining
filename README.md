@@ -1,3 +1,5 @@
+This Project was implemented for academic purpose by <strong>Vasilis Kordalis</strong> and <strong>Aristeidis Oikonomou</strong>.
+
 # Python-Data-Mining
 <strong>Aim</strong> of this project is to manipulate some raw data. These data are some lat, lon, timestamp rows on a csv file which are part of bus trajectories.
 
