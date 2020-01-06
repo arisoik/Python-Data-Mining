@@ -4,8 +4,11 @@ This Project was implemented for academic purpose by <strong>Vasilis Kordalis</s
 <strong>Aim</strong> of this project is to manipulate some bulk data. These data are lat-lon-timestamp rows on a csv file which are part of bus trajectories.
 
 <h2>Description</h2>
-We start with some data containing different bushes' trajectories file (data_sets/train_set.csv).
+
+We start with some data containing different bushes' trajectories file (data_sets/train_set.csv)
+
 After a quick edit of that file, a new one containing the routes is created (results/First_Group_of_Data/trips.csv)
+
 After that this file is cleaned from corrupted data and a new file is created (results/Clean_Routes/tripsClean.csv)
 
 Afterwards there are a few things that are happening:
